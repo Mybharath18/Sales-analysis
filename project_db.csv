@@ -1,0 +1,7 @@
+id,product,city,amount,order_date
+1,Laptop,Bangalore,50000,2023-01-01
+2,Phone,Chennai,20000,2023-01-02
+3,Tablet,Hyderabad,15000,2023-01-03
+4,Laptop,Bangalore,55000,2023-01-04
+5,Phone,Chennai,22000,2023-01-05
+6,Tablet,Bangalore,12000,2023-01-06
